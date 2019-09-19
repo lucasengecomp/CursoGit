@@ -9,6 +9,7 @@ namespace Sessao8
             Console.WriteLine("Hello World!");
             Console.ReadLine();
             Console.WriteLine("testando os git!");
+            Console.WriteLine("testando os git novamente!");
         }
     }
 }
